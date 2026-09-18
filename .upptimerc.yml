@@ -1,10 +1,11 @@
 owner: vhynlain
-repo: uptime-vhynlain.com
+repo: uptime
 user-agent: vhynlain-uptime
 
 sites:
   - name: vhynlain.com
     url: https://vhynlain.com
+    icon: https://vhynlain.com/favicon.png
 
 status-website:
   cname: status.vhynlain.com
