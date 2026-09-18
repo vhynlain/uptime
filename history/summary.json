@@ -2,7 +2,7 @@
   {
     "name": "vhynlain.com",
     "url": "https://vhynlain.com",
-    "icon": "https://icons.duckduckgo.com/ip3/vhynlain.com.ico",
+    "icon": "https://vhynlain.com/favicon.png",
     "slug": "vhynlain-com",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
